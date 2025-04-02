@@ -23,8 +23,8 @@ function App() {
         <div class="title">Information Technology Student</div>
         <div class="contact-info">
             <div class="contact-item">📧 vadapallivignesh770@gmail.com</div>
-            <div class="contact-item">📱 9398945546</div>
-            <div class="contact-item">💻 GitHub</div>
+            <div class="contact-item"><a href="tel:+919398945546">📱 9398945546</a></div>
+            <div class="contact-item"><a href="https://github.com/vignesh499">💻 GitHub</a></div>
         </div>
     </div>
     
